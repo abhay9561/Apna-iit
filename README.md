@@ -1,3 +1,3 @@
 # Apna-iit
-this is my first repository
+This is my first repository
 Author- Abhay Tale
